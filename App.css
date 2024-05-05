@@ -1,0 +1,344 @@
+.logo{
+    height: 19px;
+    margin-top: 17px;
+    margin-left: 3px;
+}
+.logo1{
+    height: 20px;
+    margin-left: 30px;
+}
+.logo4{
+    display: flex;
+    height: 35px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.maindiv{
+    width: 650px;
+}
+.ancor{
+    font-size: 20px;
+    /* border: none; */
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+.welcome{
+    color: black;
+    display: flex;
+    justify-content: center;
+    /* font-weight: bold; */
+}
+.second{
+    display: flex;
+    justify-content: center;
+    line-height: 1px;
+    font-size: 19px;
+}
+.inpiy{
+    display: flex;
+    justify-content: center;
+    height: 25px;
+    width: 220px;
+    margin-top: 30px;
+}
+.paragraph{
+    display: flex;
+    justify-content: center;
+    font-weight: 500px;
+    font-size: 19px;
+}
+.search{
+    position: absolute;
+    right: 257px;
+    top: 80px;
+    
+}
+.inputmodal{
+    margin-top: 20px;
+}
+.modal{
+    border: none;
+    margin-left: 30px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+.ancor:hover{
+    text-decoration: none;
+}
+.abc{
+    margin-left: 60px;
+}
+.cate{
+    margin-left: 10px;
+}
+.arr{
+    display: flex;
+    height: 35px;
+    margin-top: 19px;
+    margin-left: 20px;
+}
+.mainarr{
+    display: flex; 
+}
+.para{
+    margin-top: 23px;
+    margin-left: 17px;
+    font-size: 15px;
+}
+.xyz{
+width: 100%;
+}
+.shortdiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.dfg{
+    width: 50%;
+}
+.all{
+    margin-left: 10px;
+}
+.first{
+    margin-left: 22px;
+    margin-bottom: 10px;
+}
+.firstpic{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.mainpicture{
+    display: flex;
+}
+.img{
+    margin-left:40px;
+}
+.word{
+    margin-left:55px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.thirdpic{
+    margin-left: 40px;
+}
+.wording{
+    margin-left: 55px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.secondword{
+    text-align:center;
+}
+.fourthpic{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.fourthword{
+    margin-left: 60px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.fifthpic{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.fifthword{
+    margin-left: 52px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.sixthpic{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.sixthword{
+    margin-left: 72px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.seventhpic{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.seventhword{
+    margin-left: 58px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.centre{
+    display: flex;
+    justify-content: center;
+}
+.eighthpic{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.eighthword{
+    margin-left: 67px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.ninthpic{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.ninthword{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.secondmaindiv{
+    display: flex;
+}
+.tenthword{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.elevenpic{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.elevenword{
+    margin-left: 44px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.twelvepic{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.twelveword{
+    margin-left: 58px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.thirteenpic{
+    margin-left: 40px;
+    margin-top: 12px;
+}
+.thirteenword{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.fourteenpic{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.fourteenword{
+    margin-left: 80px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.head{
+    display: flex;
+    justify-content:space-between;
+}
+.arrow{
+    height: 20px;
+    margin-right: 10px;
+}
+.view{
+    display: flex;
+    justify-content: space-between;
+}
+.maindiver{
+    display: flex;
+    align-items: center;
+}
+.h2{
+    margin-right: 10px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.cards1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.arr{
+    display: flex;
+    align-items: center;
+}
+.foot{
+    margin-left: 160px;
+    margin-top: 60px;
+}
+.main12{
+    display: flex;
+    flex-direction: row;
+}
+.dual{
+    margin-top: 30px;
+}
+.line{
+    font-size: 30px;
+}
+.mini{
+    font-size: 20px;
+}
+.graph{
+    margin-left: 40px;
+}
+.border1{
+    border-left: 2px solid gainsboro;
+    height: 150px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.get{
+   margin-left: 15px;
+   font-size: 17px;
+   font-weight:bold;
+}
+.store{
+    height: 35px;
+    margin-left: 10px;
+}
+.footer{
+    height: 100%;
+    /* border-top:1px solid black ; */
+}
+.font{
+    line-height: 10px;
+    font-size: 13px;
+}
+.c{
+    display: flex;
+    justify-content:space-between;
+    /* margin-top: 20px; */
+    border-top: 1px solid #dee4e6;
+    background-color: #eaeeef;
+}
+.short{
+    height: 25px;
+}
+.logoss{
+    height: 25px;
+    margin-top: 20px;
+}
+.cccc{
+    height: 50px;
+    width: 100%;
+    background-color: #003035;
+    display: flex;
+    align-items:center;
+    justify-content: end;
+    /* margin-top: 20px; */
+}
+.color{
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
